@@ -1,0 +1,10 @@
+<suite name="RetryFailedTests" verbose="1" >
+ <listeners>
+        <listener class-name="Analyzer.AnnotationTransformer"/>
+  </listeners>
+  <test name="RetryMulitple">
+    <classes>
+      <class name="MyTests.TestCases"/>
+    </classes>
+  </test>
+</suite>

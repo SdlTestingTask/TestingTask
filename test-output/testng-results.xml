@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-20T07:50:37Z" name="Default suite" finished-at="2021-06-20T07:51:04Z" duration-ms="27060">
+    <groups>
+    </groups>
+    <test started-at="2021-06-20T07:50:37Z" name="Default test" finished-at="2021-06-20T07:51:04Z" duration-ms="27060">
+      <class name="MyTests.TestTask">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyTests.TestTask@30c8681]" started-at="2021-06-20T07:50:37Z" name="setup" finished-at="2021-06-20T07:50:58Z" duration-ms="20385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Mobile_shopping()[pri:0, instance:MyTests.TestTask@30c8681]" started-at="2021-06-20T07:50:58Z" name="Mobile_shopping" finished-at="2021-06-20T07:51:04Z" duration-ms="6642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile_shopping -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:MyTests.TestTask@30c8681]" started-at="2021-06-20T07:51:04Z" name="quit" finished-at="2021-06-20T07:51:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- MyTests.TestTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
